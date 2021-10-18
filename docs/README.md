@@ -59,7 +59,7 @@ Open de map **oefening02-cascading-inheritance**. De opgave staat in **style.css
 
 ## Oefening 3: Specifications Table
 
-Voeg aan **oefening03-table** een stijl toe zodat de elementen met class="spec-living" een rode kleur krijgen. Zonder !important  te gebruiken. Het gebruik van !important is immers 'bad practice'. Gebruik het enkel om CSS van externe libaries te overschrijven.
+Voeg aan **oefening03-table** een stijl toe zodat de elementen met `class="spec-living"` een rode kleur krijgen. Zonder `!important`  te gebruiken. Het gebruik van `!important` is immers 'bad practice'. Gebruik het enkel om CSS van externe libraries te overschrijven.
 
 Te bekomen eindresultaat:
 

@@ -51,7 +51,7 @@ Als je de waarden bepaald hebt kan je jouw oplossing controleren door de webpagi
 
 ## Oefening 2: Cascading - Inheritance
 
-Open de map **oefening02-cascasding-inheritance**. De opgave staat in **style.css**.           
+Open de map **oefening02-cascading-inheritance**. De opgave staat in **style.css**.           
          
 
 -----

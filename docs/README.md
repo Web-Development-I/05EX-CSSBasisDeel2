@@ -98,7 +98,7 @@ Bekijk de website in je browser en controleer met de Chrome Developer Tools of h
   - Selecteer bij **Elements** een HTML-element met tekst.
   - Selecteer **Computed** en kijk helemaal onderaan in de lijst welke de 'Rendered font' is.
 
-**Extra** De Firefox Developer Tools bevatten een Font editor waarmee het gemakkelijker is, dan met de Chrome Developer Tools, om te zien welke fonts er gebruikt worden.
+>  **Extra** De Firefox Developer Tools bevatten een Font editor waarmee het gemakkelijker is, dan met de Chrome Developer Tools, om te zien welke fonts er gebruikt worden.
 
 Voeg kleur- en tekst-eigenschappen toe aan de vanderbeken-oefening. Welke kleur- en tekst-eigenschappen je moet toevoegen is beschreven in de css-file.
 

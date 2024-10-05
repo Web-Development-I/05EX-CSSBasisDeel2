@@ -7,6 +7,8 @@
 Vraag 1:
 *******
 
+Deze vraag probeer je op te lossen zonder gebruik te maken van de Developer Tools.
+
 In onderstaande CSS-code zie je dat de kleur van het element <li class="red">nest 1</li> verschillende keren wordt ingesteld. 
 Zoek hieronder zelf alle stijlen op die betrekking hebben op het element (<li class="red">nest 1</li>).
 Noteer telkens: kleur - css selector - specificity. Rangschik vervolgens de lijst in dalende volgorde volgens specificity.

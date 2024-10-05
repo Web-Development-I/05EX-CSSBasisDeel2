@@ -1,33 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Specificity</title>
+  <title>CSS cascade and inheritance</title>
   <style>
     body {
       font-size: 1.5em;
     }
 
-    body > p {
+    body>p {
       background-color: red;
       font-style: italic;
     }
 
     p {
       background-color: green;
-      color:orange;
+      color: orange;
     }
 
-    h1 + p {
+    h1+p {
       color: white;
       font-style: normal;
     }
   </style>
 </head>
+
 <body>
-  <h1>Specificity</h1>
-  <p>What is my color, background-color and font-style? Am i italicized or not?.</p>
+  <h1>CSS cascade and inheritance</h1>
+  <p>What is my font-size, font-style (am i italicized or not?), color and background-color?</p>
 </body>
+
 </html>
